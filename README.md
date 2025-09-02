@@ -5,7 +5,7 @@
 
 ## Sou Paula Suarez
 
-Tenho 20 anos e atualmente estou cursando o segundo ano de Ensino Superior no IFSUL, em Análise e Desenvolvimento de Sistemas 👩🏽‍💻.
+Tenho 20 anos e atualmente estou cursando o ultimo ano de Ensino Superior no IFSUL, em Análise e Desenvolvimento de Sistemas 👩🏽‍💻.
 
 Sou uma pessoa muito ambiciosa por conhecimento e apaixonada por tecnologia. Estou em busca de oportunidades de aprendizado e experiência no mercado de trabalho para crescer e me especializar na área de TI.
 
