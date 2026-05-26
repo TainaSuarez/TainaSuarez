@@ -1,53 +1,44 @@
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=F35A61&center=true&multiline=true&random=false&width=1000&lines=Ol%C3%A1+%2C+seja+bem+vindo+ao+meu+Github" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=C084FC&center=true&vCenter=true&multiline=true&random=false&width=1000&height=80&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub" alt="Typing SVG" />
 </a>
 
-## Sou Paula Suarez
+# 👩🏽‍💻 𝗦𝗼𝘂 𝗣𝗮𝘂𝗹𝗮 𝗦𝘂𝗮𝗿𝗲𝘇
 
-Tenho 20 anos e atualmente estou cursando o ultimo ano de Ensino Superior no IFSUL, em Análise e Desenvolvimento de Sistemas 👩🏽‍💻.
+Tenho 20 anos e sou formada em Análise e Desenvolvimento de Sistemas pelo IFSUL e UTEC.
 
-Sou uma pessoa muito ambiciosa por conhecimento e apaixonada por tecnologia. Estou em busca de oportunidades de aprendizado e experiência no mercado de trabalho para crescer e me especializar na área de TI.
+Sou apaixonada por tecnologia, interfaces modernas e desenvolvimento de software. Atualmente venho desenvolvendo aplicações web utilizando tecnologias modernas, com foco em experiência do usuário, responsividade e arquitetura escalável.
 
-### 💻 Habilidades Técnicas
+## 𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴𝗶𝗮𝘀
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs,react,postgresql,tailwind,prisma,git,github,figma,vscode" />
+</p>
 
-### 🎯 Objetivos
 
-- Adquirir novas habilidades e conhecimentos em desenvolvimento front-end.
-- Obter experiência prática no mercado de trabalho.
-- Contribuir para projetos que fazem a diferença.
+## 𝗢𝗯𝗷𝗲𝘁𝗶𝘃𝗼𝘀
 
-### Sobre Mim
+- Continuar evoluindo no desenvolvimento de software.
+- Aprender novas tecnologias e arquitetura de aplicações.
+- Construir projetos modernos e escaláveis.
+- Contribuir para soluções que gerem impacto real.
+
+## 𝗦𝗼𝗯𝗿𝗲 𝗠𝗶𝗺
 
 - Comprometida
 - Responsável
-- Esforçada
-- Bom relacionamento no trabalho em equipe
-
----
-
+- Criativa
+- Apaixonada por tecnologia
+- Boa comunicação e trabalho em equipe
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RamonLarcherRibeiro/RamonLarcherRibeiro/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture></br>
+## 𝗖𝗼𝗻𝘁𝗮𝘁𝗼
 
+<p>
+  <a href="https://www.linkedin.com/in/taina-suarez-3455a72b3/">LinkedIn</a> •
+  <a href="https://TU-PORTFOLIO.vercel.app">Portfolio</a> •
+  <a href="mailto:suareztaina47@gmail.com">Email</a>
+</p>
 
-![Taina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TainaSuarez&show_icons=true&bg_color=00000000)
-
-### 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/taina-suarez-3455a72b3/)
-- [Email](mailto:suareztaina47@gmail.com)
-- [GitHub](https://github.com/TainaSuarez)
-
-Obrigado por visitar meu perfil!
+<p align="center">
+  <sup>𝗢𝗯𝗿𝗶𝗴𝗮𝗱𝗼 𝗽𝗼𝗿 𝘃𝗶𝘀𝗶𝘁𝗮𝗿 𝗺𝗲𝘂 𝗽𝗲𝗿𝗳𝗶𝗹 🚀</sup>
+</p>
