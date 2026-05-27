@@ -4,7 +4,7 @@
 
 # 👩🏽‍💻 𝗦𝗼𝘂 𝗣𝗮𝘂𝗹𝗮 𝗦𝘂𝗮𝗿𝗲𝘇
 
-Tenho 20 anos e sou formada em Análise e Desenvolvimento de Sistemas pelo IFSUL e UTEC.
+Tenho 21 anos e sou formada em Análise e Desenvolvimento de Sistemas pelo IFSUL e UTEC.
 
 Sou apaixonada por tecnologia, interfaces modernas e desenvolvimento de software. Atualmente venho desenvolvendo aplicações web utilizando tecnologias modernas, com foco em experiência do usuário, responsividade e arquitetura escalável.
 
